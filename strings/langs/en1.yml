@@ -145,7 +145,7 @@ cplay_6 : "Bu gruba bağlanmak için [{0}] kanalın ** Sahibi ** olmanız gereki
 play_1: " Query Sorgu işleniyor... Lütfen bekleyin!"
 play_2: "**ChannelKanal Oynatma Modu ** \ n\n Query Sorgu İşleniyor... Lütfen bekleyin!\n**Bağlantılı Kanal:** {0}"
 play_3: "Sorgu işlenemedi!"
-play_4 : "Adm **Yöneticiler Yalnızca Play** \Yalnızca Yöneticiler ve Yetkilendirme Kullanıcıları bu grupta müzik çalabilir.\n\ n Modu / playmode aracılığıyla değiştirin ve zaten yöneticiyseniz, admincache'i / admincache aracılığıyla yeniden yükleyin "
+play_4 : "Adm **Yöneticiler Yalnızca Play** \ Yalnızca Yöneticiler ve Yetkilendirme Kullanıcıları bu grupta müzik çalabilir.\n\ n Modu / playmode aracılığıyla değiştirin ve zaten yöneticiyseniz, admincache'i / admincache aracılığıyla yeniden yükleyin "
 play_5: "Ses dosyası işlenemedi.\n\nAudio Dosya Boyutu 100 mb'den Küçük Olmalıdır"
 play_6 : "** Süre Sınırı Aşıldı **\n\n ** İzin verilen Süre: ** {0} dakika (lar) \n ** Alınan Süre: ** {1} saat (ler)"
 play_7 : "Üzgünüm! Bot, CPU aşırı yüklenme sorunları nedeniyle yalnızca sınırlı sayıda görüntülü görüşmeye izin verir. Diğer birçok sohbet şu anda görüntülü görüşme kullanıyor. Sese geçmeyi deneyin veya daha sonra tekrar deneyin "
